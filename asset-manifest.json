@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/youtbe-video-browser/static/css/main.cdb76c49.chunk.css",
+    "main.js": "/youtbe-video-browser/static/js/main.0484dd57.chunk.js",
+    "main.js.map": "/youtbe-video-browser/static/js/main.0484dd57.chunk.js.map",
+    "runtime-main.js": "/youtbe-video-browser/static/js/runtime-main.980f9086.js",
+    "runtime-main.js.map": "/youtbe-video-browser/static/js/runtime-main.980f9086.js.map",
+    "static/js/2.b3954ccd.chunk.js": "/youtbe-video-browser/static/js/2.b3954ccd.chunk.js",
+    "static/js/2.b3954ccd.chunk.js.map": "/youtbe-video-browser/static/js/2.b3954ccd.chunk.js.map",
+    "index.html": "/youtbe-video-browser/index.html",
+    "static/css/main.cdb76c49.chunk.css.map": "/youtbe-video-browser/static/css/main.cdb76c49.chunk.css.map",
+    "static/js/2.b3954ccd.chunk.js.LICENSE.txt": "/youtbe-video-browser/static/js/2.b3954ccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.980f9086.js",
+    "static/js/2.b3954ccd.chunk.js",
+    "static/css/main.cdb76c49.chunk.css",
+    "static/js/main.0484dd57.chunk.js"
+  ]
+}
